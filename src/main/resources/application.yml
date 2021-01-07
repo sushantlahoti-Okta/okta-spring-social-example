@@ -9,7 +9,7 @@ okta:
   oauth2:
     redirectUri: /authorization-code/callback
     issuer: https://dev-497881.oktapreview.com/oauth2/default
-    clientSecret: M8F58gKC2_uOJdxVbonKcZMPQ-UB90pqpP9fqrEA
+    clientSecret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     clientId: 0oat0pm28wTzcJmey0h7
 
 security:
